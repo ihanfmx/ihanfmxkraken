@@ -4,3 +4,4 @@ NARIZ
 BIGOTE
 Prueba conflicto 1
 Prueba conflicto 2
+Prueba Stash
